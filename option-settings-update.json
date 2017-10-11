@@ -1,0 +1,17 @@
+ [
+    {
+      "Namespace": "aws:elasticbeanstalk:application:environment",
+      "OptionName": "TEST_01",
+      "Value": "asdf"
+    },
+    {
+      "Namespace": "aws:elasticbeanstalk:application:environment",
+      "OptionName": "TEST_02",
+      "Value": "asdf"
+    },
+    {
+      "Namespace": "aws:elasticbeanstalk:application:environment",
+      "OptionName": "TEST_03",
+      "Value": "asdf"
+    }
+  ]

@@ -1,0 +1,117 @@
+ [
+    {
+      "Namespace": "aws:elasticbeanstalk:application:environment",
+      "OptionName": "TEST_01",
+      "Value": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    {
+      "Namespace": "aws:elasticbeanstalk:application:environment",
+      "OptionName": "TEST_02",
+      "Value": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    {
+      "Namespace": "aws:elasticbeanstalk:application:environment",
+      "OptionName": "TEST_03",
+      "Value": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    {
+      "Namespace": "aws:elasticbeanstalk:application:environment",
+      "OptionName": "TEST_04",
+      "Value": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    {
+      "Namespace": "aws:elasticbeanstalk:application:environment",
+      "OptionName": "TEST_05",
+      "Value": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    {
+      "Namespace": "aws:elasticbeanstalk:application:environment",
+      "OptionName": "TEST_06",
+      "Value": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    {
+      "Namespace": "aws:elasticbeanstalk:application:environment",
+      "OptionName": "TEST_07",
+      "Value": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    {
+      "Namespace": "aws:elasticbeanstalk:application:environment",
+      "OptionName": "TEST_08",
+      "Value": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    {
+      "Namespace": "aws:elasticbeanstalk:application:environment",
+      "OptionName": "TEST_09",
+      "Value": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    {
+      "Namespace": "aws:elasticbeanstalk:application:environment",
+      "OptionName": "TEST_10",
+      "Value": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    {
+      "Namespace": "aws:elasticbeanstalk:application:environment",
+      "OptionName": "TEST_11",
+      "Value": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    {
+      "Namespace": "aws:elasticbeanstalk:application:environment",
+      "OptionName": "TEST_12",
+      "Value": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    {
+      "Namespace": "aws:elasticbeanstalk:application:environment",
+      "OptionName": "TEST_13",
+      "Value": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    {
+      "Namespace": "aws:elasticbeanstalk:application:environment",
+      "OptionName": "TEST_14",
+      "Value": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    {
+      "Namespace": "aws:elasticbeanstalk:application:environment",
+      "OptionName": "TEST_15",
+      "Value": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    {
+      "Namespace": "aws:elasticbeanstalk:application:environment",
+      "OptionName": "TEST_16",
+      "Value": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    {
+      "Namespace": "aws:elasticbeanstalk:application:environment",
+      "OptionName": "TEST_17",
+      "Value": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    {
+      "Namespace": "aws:elasticbeanstalk:application:environment",
+      "OptionName": "TEST_18",
+      "Value": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    {
+      "Namespace": "aws:elasticbeanstalk:application:environment",
+      "OptionName": "TEST_19",
+      "Value": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    {
+      "Namespace": "aws:elasticbeanstalk:application:environment",
+      "OptionName": "TEST_20",
+      "Value": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    {
+      "Namespace": "aws:elasticbeanstalk:application:environment",
+      "OptionName": "TEST_21",
+      "Value": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    {
+      "Namespace": "aws:elasticbeanstalk:application:environment",
+      "OptionName": "TEST_22",
+      "Value": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    {
+      "Namespace": "aws:elasticbeanstalk:application:environment",
+      "OptionName": "TEST_23",
+      "Value": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    }
+  ]
